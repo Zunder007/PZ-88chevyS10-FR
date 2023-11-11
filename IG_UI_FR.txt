@@ -1,0 +1,21 @@
+IG_UI_FR = {
+	IGUI_VehicleName88chevyS10 = "'88 Chevrolet S10"
+
+	IGUI_VehiclePartCH88Rollbar = "Arceau de sécurité",
+	IGUI_VehiclePartCH88Roofrack = "Galerie de toit",
+	IGUI_VehiclePartCH88BedCover = "Bâche",
+	IGUI_VehiclePartCH88TrunkDoorTop = "Fermeture de coffre",
+	IGUI_VehiclePartCH88Trunk = "Stockage",
+
+	IGUI_VehiclePartCH88FrontBumper = "Pare-chocs avant",
+	IGUI_VehiclePartCH88RearBumper = "Pare-chocs arrière",
+
+	IGUI_VehiclePartCH88SpareTireRoof = "Pneu de secours de toit",
+	IGUI_VehiclePartCH88SpareTireRear = "Pneu de secours arrière",
+
+	IGUI_VehiclePartCH88WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartCH88WindowFrontLeftArmor = "Blindage de vitre avant gauche",
+	IGUI_VehiclePartCH88WindowFrontRightArmor = ""Blindage de vitre avant droite",
+
+	IGUI_CraftCategory_80sPickups = "Pickups des années 80",
+}
