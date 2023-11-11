@@ -1,0 +1,14 @@
+ItemName_FR = {
+	ItemName_Base.88ChevyS10BedCover = "88 Chevrolet S10 Bâche",
+	ItemName_Base.88ChevyS10BullbarFront = "88 Chevrolet S10 Pare-buffle avant",
+	ItemName_Base.88ChevyS10BumperFront = "88 Chevrolet S10 Pare-chocs avant",
+	ItemName_Base.88ChevyS10BumperRear = "88 Chevrolet S10 Pare-chocs arrière",
+	ItemName_Base.88ChevyS10CarFrontDoor2 = "88 Chevrolet S10 Portière",
+	ItemName_Base.88ChevyS10EngineDoor2 = "88 Chevrolet S10 Capot",
+	ItemName_Base.88ChevyS10Trunk2 = "88 Chevrolet S10 Coffre",
+	ItemName_Base.88ChevyS10TrunkDoor2 = "88 Chevrolet S10 Fermeture de coffre",
+	ItemName_Base.88ChevyS10TrunkDoorTop2 = "88 Chevrolet S10 Fermeture de coffre supérieur",
+	ItemName_Base.88ChevyS10WindowSide2 = "88 Chevrolet S10 Vitre latérale",
+	ItemName_Base.88ChevyS10Windshield2 = "88 Chevrolet S10 Pare-brise",
+	ItemName_Base.88ChevyS10WindshieldRear2 = "88 Chevrolet S10 Pare-brise arrière",
+}
