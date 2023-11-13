@@ -18,4 +18,5 @@ IG_UI_FR = {
 	IGUI_VehiclePartCH88WindowFrontRightArmor = ""Blindage de vitre avant droite",
 
 	IGUI_CraftCategory_80sPickups = "Pickups des années 80",
+	IGUI_CraftCategory_CH88 = "'88 Chevrolet S10",
 }
