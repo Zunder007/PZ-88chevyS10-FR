@@ -5,4 +5,13 @@ Recipes_FR = {
 	Recipe_Make_CH88_Rear_Windshield = "Fabriquer Pare-brise arrière",
 	Recipe_Make_CH88_Top_Trunk_Lid = "Fabriquer Fermeture de coffre supérieur",
 	Recipe_Make_CH88_Windshield = "Fabriquer Pare-brise",
+
+	Recipe_Make_80sPickups_Front_Bullbar_Type_1 = "Fabriquer Pare-buffle avant",
+	Recipe_Make_80sPickups_Front_Window_Armor = "Fabriquer Blindage de vitre avant",
+	Recipe_Make_80sPickups_Rear_Bullbar_Type_1 = "Fabriquer Pare-buffle arrière",
+	Recipe_Make_80sPickups_Rear_Window_Armor = "Fabriquer Blindage de vitre arrière",
+	Recipe_Make_80sPickups_Rollbar_Type_A = "Fabriquer Arceau de sécurité Type A",
+	Recipe_Make_80sPickups_Rollbar_Type_B = "Fabriquer Arceau de sécurité Type B",
+	Recipe_Make_80sPickups_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_80sPickups_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 }
