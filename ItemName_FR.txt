@@ -11,4 +11,16 @@ ItemName_FR = {
 	ItemName_Base.88ChevyS10WindowSide2 = "88 Chevrolet S10 Vitre latérale",
 	ItemName_Base.88ChevyS10Windshield2 = "88 Chevrolet S10 Pare-brise",
 	ItemName_Base.88ChevyS10WindshieldRear2 = "88 Chevrolet S10 Pare-brise arrière",
+
+	ItemName_Base.80sOffroadTireA = "80s Pneu tout-terrain Type A",
+	ItemName_Base.80sPickupBullbarFront = "80s Pickup Pare-buffle avant",
+	ItemName_Base.80sPickupBullbarRear = "80s Pickup Pare-buffle arrière",
+	ItemName_Base.80sPickupRollbarA = "80s Pickup Arceau de sécurité Type A",
+	ItemName_Base.80sPickupRollbarB = "80s Pickup Arceau de sécurité Type B",
+	ItemName_Base.80sPickupRoofrackA = "80s Pickup Galerie de toit",
+	ItemName_Base.80sPickupSeatFront2 = "80s Pickup Siège avant",
+	ItemName_Base.80sPickupSeatRear2 = "80s Pickup Siège arrière",
+	ItemName_Base.80sPickupWindowFrontArmor = "80s Pickup Blindage de vitre avant",
+	ItemName_Base.80sPickupWindowRearArmor = "80s Pickup Blindage de vitre arrière",
+	ItemName_Base.80sPickupWindshieldArmor = "80s Pickup Blindage de pare-brise",
 }
