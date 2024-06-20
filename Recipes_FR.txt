@@ -14,4 +14,10 @@ Recipes_FR = {
 	Recipe_Make_80sPickups_Rollbar_Type_B = "Fabriquer Arceau de sécurité Type B",
 	Recipe_Make_80sPickups_Roofrack = "Fabriquer Galerie de toit",
 	Recipe_Make_80sPickups_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+
+	Recipe_Dismantle_88_Chevrolet_S10_Armor = "Démonter Blindage",
+	Recipe_Dismantle_88_Chevrolet_S10_Door = "Démonter Portière",
+	Recipe_Dismantle_88_Chevrolet_S10_Lid = "Démonter Coffre",
+	Recipe_Dismantle_88_Chevrolet_S10_Truckbed_Addons = "Démonter Ajouts",
+	Recipe_Make_88_Chevrolet_S10_Front_Bullbar = "Fabriquer Pare-buffle",
 }
